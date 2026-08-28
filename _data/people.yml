@@ -3,13 +3,10 @@
 # These cards are auto-generated from the org's instructors team.
 
 instructor:
-  name: "hertie-dsl-bot"
-  profile_pic: "https://avatars.githubusercontent.com/u/294491927?v=4"
-  webpage: "https://github.com/hertie-dsl-bot"
+  name: "Course staff"
+  profile_pic: ""
+  webpage: ""
 
-instructors:
-  - name: "hertie-dsl-bot"
-    profile_pic: "https://avatars.githubusercontent.com/u/294491927?v=4"
-    webpage: "https://github.com/hertie-dsl-bot"
+instructors: []
 
 teaching_assistants: []
