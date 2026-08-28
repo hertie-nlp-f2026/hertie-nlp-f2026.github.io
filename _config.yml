@@ -1,15 +1,17 @@
 # ============================================================
 # Hertie DSL Course Website — Configuration
 # ============================================================
-# Edit the fields below for your course.
+# Edit the fields below for your course - EXCEPT the course-identity keys the DSL
+# course sync owns and rewrites on every run: `course_code`, `course_name`, `course_semester`, `github_org`.
+# Change those in the course org's .github/dsl-course.yml instead.
 # Do NOT change anything below the "Do not change" line.
 
 # --- Course identity ---
-course_name: "Course Name (Code)"           # e.g. "Deep Learning (GRAD-E1394)"
+course_name: "Natural Language Processing"
 course_description: "One paragraph description of the course."
-course_semester: "Fall 2025"                # e.g. "Fall 2025" or "Spring 2026"
-course_code: "GRAD-E1394"                   # Hertie course code
-github_org: "Hertie-School-Deep-Learning-E1394"  # GitHub org for this course
+course_semester: "Fall 2026"
+course_code: "E1282"
+github_org: "hertie-nlp-f2026"
 
 # --- Instructor / institution ---
 schoolname: "Hertie School"
