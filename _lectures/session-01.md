@@ -6,6 +6,10 @@ type: lecture
 date: 2026-09-08T09:00:00
 title: "Session 1"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/01_session-1/.gitkeep
+      name: "lecture - .gitkeep"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/01_session-1/NLP_Session_1_Final.pdf
+      name: "lecture - NLP_Session_1_Final.pdf"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/.DS_Store
       name: "reading - .DS_Store"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/.gitkeep
