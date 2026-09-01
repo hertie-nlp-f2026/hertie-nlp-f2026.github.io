@@ -4,6 +4,23 @@ documents:
   - name: "E1282_NaturalLangProcess_RamirezRuiz.pdf"
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
+  - name: "labs"
+    files: 5
+    entries:
+      - name: "01_session-1/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
+        files: 5
+        entries:
+          - name: ".gitkeep"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/.gitkeep
+          - name: "nlp_lab1_data_in.csv"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/nlp_lab1_data_in.csv
+          - name: "NLP_Lab_1.html"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1.html
+          - name: "NLP_Lab_1_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1_activity.ipynb
+          - name: "requirements.txt"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/requirements.txt
   - name: "lectures"
     files: 2
     entries:
