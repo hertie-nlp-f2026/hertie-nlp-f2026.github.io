@@ -8,6 +8,8 @@ title: "Lab 1"
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/.gitkeep
       name: "lab - .gitkeep"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab1_Slides.pdf
+      name: "lab - NLP_Lab1_Slides.pdf"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1.html
       name: "lab - NLP_Lab_1.html"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1_activity.ipynb
