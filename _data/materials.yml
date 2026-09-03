@@ -5,14 +5,12 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 6
+    files: 5
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
-        files: 6
+        files: 5
         entries:
-          - name: ".gitkeep"
-            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/.gitkeep
           - name: "nlp_lab1_data_in.csv"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/nlp_lab1_data_in.csv
           - name: "NLP_Lab1_Slides.pdf"
@@ -24,27 +22,21 @@ sections:
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/requirements.txt
   - name: "lectures"
-    files: 2
+    files: 1
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/01_session-1
-        files: 2
+        files: 1
         entries:
-          - name: ".gitkeep"
-            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/01_session-1/.gitkeep
           - name: "NLP_Session_1_Final.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/01_session-1/NLP_Session_1_Final.pdf
   - name: "readings"
-    files: 4
+    files: 2
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/01_session-1
-        files: 4
+        files: 2
         entries:
-          - name: ".DS_Store"
-            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/.DS_Store
-          - name: ".gitkeep"
-            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/.gitkeep
           - name: "s1-hobson-dyshel-2024-opt.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/s1-hobson-dyshel-2024-opt.pdf
           - name: "s1-vajjala-2020.pdf"
