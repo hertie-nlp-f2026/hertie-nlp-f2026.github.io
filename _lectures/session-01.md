@@ -7,10 +7,13 @@ date: 2026-09-08T09:00:00
 title: "Session 1"
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/01_session-1/NLP_Session_1_Final.pdf
-      name: "lecture - NLP_Session_1_Final.pdf"
+      name: "NLP_Session_1_Final.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/s1-hobson-dyshel-2024-opt.pdf
-      name: "reading - s1-hobson-dyshel-2024-opt.pdf"
+      name: "s1-hobson-dyshel-2024-opt.pdf"
+      section: "reading"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/01_session-1/s1-vajjala-2020.pdf
-      name: "reading - s1-vajjala-2020.pdf"
+      name: "s1-vajjala-2020.pdf"
+      section: "reading"
 ---
 

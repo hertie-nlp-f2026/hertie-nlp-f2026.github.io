@@ -7,14 +7,19 @@ date: 2026-09-08T09:00:00
 title: "Lab 1"
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab1_Slides.pdf
-      name: "lab - NLP_Lab1_Slides.pdf"
+      name: "NLP_Lab1_Slides.pdf"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1.html
-      name: "lab - NLP_Lab_1.html"
+      name: "NLP_Lab_1.html"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1_activity.ipynb
-      name: "lab - NLP_Lab_1_activity.ipynb"
+      name: "NLP_Lab_1_activity.ipynb"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/nlp_lab1_data_in.csv
-      name: "lab - nlp_lab1_data_in.csv"
+      name: "nlp_lab1_data_in.csv"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/requirements.txt
-      name: "lab - requirements.txt"
+      name: "requirements.txt"
+      section: "lab"
 ---
 
