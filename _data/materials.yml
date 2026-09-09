@@ -5,7 +5,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 6
+    files: 12
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -23,10 +23,26 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/requirements.txt
       - name: "02_session-2/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/02_session-2
-        files: 1
+        files: 7
         entries:
+          - name: "images/"
+            url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/02_session-2/images
+            files: 1
+            entries:
+              - name: "NLP_Lab2_pipeline.png"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/images/NLP_Lab2_pipeline.png
+          - name: "nlp_lab2_data_cleaning.csv"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/nlp_lab2_data_cleaning.csv
+          - name: "NLP_Lab2_Slides.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab2_Slides.pdf
+          - name: "NLP_Lab_2_activity.html"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab_2_activity.html
+          - name: "NLP_Lab_2_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab_2_activity.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/requirements.txt
+          - name: "reviews_sentiment.csv"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/reviews_sentiment.csv
   - name: "lectures"
     files: 2
     entries:

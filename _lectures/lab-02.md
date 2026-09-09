@@ -6,8 +6,26 @@ type: lab
 date: 2026-09-15T09:00:00
 title: "Lab 2"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab2_Slides.pdf
+      name: "NLP_Lab2_Slides.pdf"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab_2_activity.html
+      name: "NLP_Lab_2_activity.html"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab_2_activity.ipynb
+      name: "NLP_Lab_2_activity.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/nlp_lab2_data_cleaning.csv
+      name: "nlp_lab2_data_cleaning.csv"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/requirements.txt
       name: "requirements.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/reviews_sentiment.csv
+      name: "reviews_sentiment.csv"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/02_session-2/images
+      name: "images/ (1 file)"
       section: "lab"
 ---
 
