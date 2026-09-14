@@ -44,7 +44,7 @@ sections:
           - name: "reviews_sentiment.csv"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/reviews_sentiment.csv
   - name: "lectures"
-    files: 2
+    files: 3
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/01_session-1
@@ -58,6 +58,12 @@ sections:
         entries:
           - name: "NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/02_session-2/NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf
+      - name: "03_session-3/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/03_session-3
+        files: 1
+        entries:
+          - name: "NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/03_session-3/NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf
   - name: "readings"
     files: 2
     entries:
