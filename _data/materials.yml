@@ -5,7 +5,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 13
+    files: 26
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -45,8 +45,38 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/reviews_sentiment.csv
       - name: "03_session-3/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/03_session-3
-        files: 1
+        files: 14
         entries:
+          - name: "pdf_corpus/"
+            url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/03_session-3/pdf_corpus
+            files: 10
+            entries:
+              - name: "E1282_NaturalLangProcess_RamirezRuiz.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1282_NaturalLangProcess_RamirezRuiz.pdf
+              - name: "E1287_EmissionsPricing_Hirth&Flachsland.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1287_EmissionsPricing_Hirth%26Flachsland.pdf
+              - name: "E1319_GPAI_Bryson.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1319_GPAI_Bryson.pdf
+              - name: "E1354_DataScienceDecisionMaking_Lowe.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1354_DataScienceDecisionMaking_Lowe.pdf
+              - name: "E1359_IntergroupRelations_Ditlmann.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1359_IntergroupRelations_Ditlmann.pdf
+              - name: "E1368_PoliticsofFood_Bauer.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1368_PoliticsofFood_Bauer.pdf
+              - name: "E1393_DvlpEconomics_Ornaghi.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1393_DvlpEconomics_Ornaghi.pdf
+              - name: "E1461_AgencyFoundationsTechEthics_Bryson.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1461_AgencyFoundationsTechEthics_Bryson.pdf
+              - name: "E1487_CausalMachineLearning_Dimmery.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1487_CausalMachineLearning_Dimmery.pdf
+              - name: "E1508_Evaluating-AI-Systems_Dimmery.pdf"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1508_Evaluating-AI-Systems_Dimmery.pdf
+          - name: "NLP_Lab3_Slides.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab3_Slides.pdf
+          - name: "NLP_Lab_3.html"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3.html
+          - name: "NLP_Lab_3_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3_activity.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/requirements.txt
   - name: "lectures"

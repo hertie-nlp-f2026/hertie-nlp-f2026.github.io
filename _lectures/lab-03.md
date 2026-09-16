@@ -6,8 +6,20 @@ type: lab
 date: 2026-09-22T09:00:00
 title: "Lab 3"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab3_Slides.pdf
+      name: "NLP_Lab3_Slides.pdf"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3.html
+      name: "NLP_Lab_3.html"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3_activity.ipynb
+      name: "NLP_Lab_3_activity.ipynb"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/requirements.txt
       name: "requirements.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/03_session-3/pdf_corpus
+      name: "pdf_corpus/ (10 files)"
       section: "lab"
 ---
 
