@@ -101,7 +101,7 @@ sections:
           - name: "NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/03_session-3/NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf
   - name: "readings"
-    files: 11
+    files: 13
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/01_session-1
@@ -145,3 +145,11 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/05_session-5/s5-raschka-2022-opt.pdf
           - name: "s5-vajjala-2024.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/05_session-5/s5-vajjala-2024.pdf
+      - name: "06_session-6/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/06_session-6
+        files: 2
+        entries:
+          - name: "s6-hobson-dyshel-2024.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/06_session-6/s6-hobson-dyshel-2024.pdf
+          - name: "s6-raschka-2024-opt.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/06_session-6/s6-raschka-2024-opt.pdf
