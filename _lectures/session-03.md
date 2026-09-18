@@ -9,5 +9,11 @@ links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/03_session-3/NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf
       name: "NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/03_session-3/s3-hobson-dyshel-2024-opt.pdf
+      name: "s3-hobson-dyshel-2024-opt.pdf"
+      section: "reading"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/03_session-3/s3-vajjala-2024.pdf
+      name: "s3-vajjala-2024.pdf"
+      section: "reading"
 ---
 
