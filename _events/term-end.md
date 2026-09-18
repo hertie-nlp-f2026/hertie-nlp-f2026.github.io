@@ -5,6 +5,5 @@
 type: term_date
 date: 2026-12-15T09:00:00
 hide_time: true
-name: "Term ends"
-description: ""
+title: "Term ends"
 ---
