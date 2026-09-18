@@ -3,6 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: exam
-date: 2026-10-27T09:00:00
+date: 2026-09-26T09:00:00
 title: "MidTerm Exam"
 ---

@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: term_date
-date: 2026-12-15T09:00:00
+date: 2027-01-31T09:00:00
 hide_time: true
 title: "Term ends"
 ---
