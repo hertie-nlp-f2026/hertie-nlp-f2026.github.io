@@ -9,5 +9,14 @@ links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/02_session-2/NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf
       name: "NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/02_session-2/s2-hobson-dyshel-2024-2.pdf
+      name: "s2-hobson-dyshel-2024-2.pdf"
+      section: "reading"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/02_session-2/s2-hobson-dyshel-2024-opt.pdf
+      name: "s2-hobson-dyshel-2024-opt.pdf"
+      section: "reading"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/02_session-2/s2-jurafsky-martin-2024.pdf
+      name: "s2-jurafsky-martin-2024.pdf"
+      section: "reading"
 ---
 
