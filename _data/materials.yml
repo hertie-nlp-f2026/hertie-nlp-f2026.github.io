@@ -116,7 +116,7 @@ sections:
           - name: "reviews_sentiment.csv"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/reviews_sentiment.csv
   - name: "lectures"
-    files: 3
+    files: 4
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/01_session-1
@@ -136,6 +136,12 @@ sections:
         entries:
           - name: "NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/03_session-3/NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf
+      - name: "04_session-4/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/04_session-4
+        files: 1
+        entries:
+          - name: "NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/04_session-4/NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf
   - name: "readings"
     files: 13
     entries:

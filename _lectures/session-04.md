@@ -6,6 +6,9 @@ type: lecture
 date: 2026-08-29T09:00:00
 title: "Session 4"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/04_session-4/NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf
+      name: "NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/04_session-4/s4-hobson-dyshel-2024-opt.pdf
       name: "s4-hobson-dyshel-2024-opt.pdf"
       section: "reading"
