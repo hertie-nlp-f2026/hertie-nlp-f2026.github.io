@@ -12,6 +12,9 @@ links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_activity.ipynb
       name: "NLP_Lab_4_activity.ipynb"
       section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/requirements.txt
+      name: "requirements.txt"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/reviews_sentiment.csv
       name: "reviews_sentiment.csv"
       section: "lab"
