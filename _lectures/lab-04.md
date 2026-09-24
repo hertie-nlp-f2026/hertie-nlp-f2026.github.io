@@ -6,8 +6,17 @@ type: lab
 date: 2026-08-29T09:00:00
 title: "Lab 4"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab4_Slides.pdf
+      name: "NLP_Lab4_Slides.pdf"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4.html
       name: "NLP_Lab_4.html"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.html
+      name: "NLP_Lab_4_CBoW.html"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.ipynb
+      name: "NLP_Lab_4_CBoW.ipynb"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_activity.ipynb
       name: "NLP_Lab_4_activity.ipynb"

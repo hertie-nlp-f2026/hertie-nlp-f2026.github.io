@@ -5,7 +5,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 40
+    files: 43
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -81,7 +81,7 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/requirements.txt
       - name: "04_session-4/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/04_session-4
-        files: 14
+        files: 17
         entries:
           - name: "pdf_corpus/"
             url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/04_session-4/pdf_corpus
@@ -107,10 +107,16 @@ sections:
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1487_CausalMachineLearning_Dimmery.pdf
               - name: "E1508_Evaluating-AI-Systems_Dimmery.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1508_Evaluating-AI-Systems_Dimmery.pdf
+          - name: "NLP_Lab4_Slides.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab4_Slides.pdf
           - name: "NLP_Lab_4.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4.html
           - name: "NLP_Lab_4_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_activity.ipynb
+          - name: "NLP_Lab_4_CBoW.html"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.html
+          - name: "NLP_Lab_4_CBoW.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/requirements.txt
           - name: "reviews_sentiment.csv"
