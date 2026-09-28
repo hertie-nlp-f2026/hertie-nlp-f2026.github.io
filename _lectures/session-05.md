@@ -6,6 +6,9 @@ type: lecture
 date: 2026-09-05T09:00:00
 title: "Session 5"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/05_session-5/NLP_Session_5_Basic_Models.pdf
+      name: "NLP_Session_5_Basic_Models.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/05_session-5/s5-raschka-2022-opt.pdf
       name: "s5-raschka-2022-opt.pdf"
       section: "reading"
