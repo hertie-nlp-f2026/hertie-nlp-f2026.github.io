@@ -6,6 +6,9 @@ type: lab
 date: 2026-09-05T09:00:00
 title: "Lab 5"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/05_session-5/NLP_Lab5_Slides.pdf
+      name: "NLP_Lab5_Slides.pdf"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/05_session-5/NLP_Lab_5_activity.html
       name: "NLP_Lab_5_activity.html"
       section: "lab"
