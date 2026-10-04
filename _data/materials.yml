@@ -167,7 +167,7 @@ sections:
           - name: "NLP_Session_5_Basic_Models.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/05_session-5/NLP_Session_5_Basic_Models.pdf
   - name: "readings"
-    files: 14
+    files: 19
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/01_session-1
@@ -221,3 +221,17 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/06_session-6/s6-hobson-dyshel-2024.pdf
           - name: "s6-raschka-2024-opt.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/06_session-6/s6-raschka-2024-opt.pdf
+      - name: "07_session-7/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/07_session-7
+        files: 5
+        entries:
+          - name: "s7-raschka-2022-1.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/07_session-7/s7-raschka-2022-1.pdf
+          - name: "s7-raschka-2022-2.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/07_session-7/s7-raschka-2022-2.pdf
+          - name: "s7-raschka-2022-3.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/07_session-7/s7-raschka-2022-3.pdf
+          - name: "s7-raschka-2022-opt-1.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/07_session-7/s7-raschka-2022-opt-1.pdf
+          - name: "s7-raschka-2022-opt-2.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/07_session-7/s7-raschka-2022-opt-2.pdf
