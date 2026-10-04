@@ -7,18 +7,12 @@ date: 2026-10-04T20:00:00
 title: "Quiz 1"
 subtitle: "Quiz 1"
 handout_pending: true
-submit_shape: "assignment-repo-private"
-repo_name: "quiz-1-<your-handle>"
-repo_name_is_shape: true
-cutoff_sentence: "What is on main at the grading cutoff is what is marked."
-late_rule: "10% per day, up to 10 days"
+submit_shape: "external"
 due_event:
     type: due
     date: 2026-10-04T23:59:59
     title: "Quiz 1"
     subtitle: "Quiz 1"
-    submit_shape: "assignment-repo-private"
-    repo_name: "quiz-1-<your-handle>"
-    repo_name_is_shape: true
+    submit_shape: "external"
 ---
-_**Quiz 1 is not yet released** - your private `quiz-1-<your-handle>` repo appears when it is._
+_**Quiz 1 is not yet released** - the brief appears here when it is._
