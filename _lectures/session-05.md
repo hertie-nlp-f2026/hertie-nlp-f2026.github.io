@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: lecture
-date: 2026-10-06T09:00:00
+date: 2026-09-05T09:00:00
 title: "Session 5"
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/05_session-5/NLP_Session_5_Basic_Models.pdf
