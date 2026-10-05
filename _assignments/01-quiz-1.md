@@ -6,7 +6,6 @@ type: assignment
 date: 2026-10-04T20:00:00
 title: "Quiz 1"
 subtitle: "Quiz 1"
-handout_pending: true
 submit_shape: "external"
 due_event:
     type: due
@@ -15,4 +14,14 @@ due_event:
     subtitle: "Quiz 1"
     submit_shape: "external"
 ---
-_**Quiz 1 is not yet released** - the brief appears here when it is._
+{% raw %}
+## Task
+
+_Write the assignment here (dsl-stub: replace this whole file)._
+
+## What to submit
+
+Commit the notebook with its outputs saved, after **Restart kernel and run all**. We read it as it stands, and we run it the same way.
+
+_Say which files you expect back, and in what shape._
+{% endraw %}
