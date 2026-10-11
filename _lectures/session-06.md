@@ -6,6 +6,9 @@ type: lecture
 date: 2026-09-12T09:00:00
 title: "Session 6"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/06_session-6/NLP_Session_6.pdf
+      name: "NLP_Session_6.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/06_session-6/s6-bertopic-opt.pdf
       name: "s6-bertopic-opt.pdf"
       section: "reading"

@@ -146,7 +146,7 @@ sections:
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/requirements.txt
   - name: "lectures"
-    files: 5
+    files: 6
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/01_session-1
@@ -178,6 +178,12 @@ sections:
         entries:
           - name: "NLP_Session_5_Basic_Models.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/05_session-5/NLP_Session_5_Basic_Models.pdf
+      - name: "06_session-6/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/06_session-6
+        files: 1
+        entries:
+          - name: "NLP_Session_6.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/06_session-6/NLP_Session_6.pdf
   - name: "readings"
     files: 24
     entries:
