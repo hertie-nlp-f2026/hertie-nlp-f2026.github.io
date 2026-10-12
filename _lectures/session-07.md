@@ -6,6 +6,9 @@ type: lecture
 date: 2026-09-19T09:00:00
 title: "Session 7"
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/07_session-7/NLP_Session_7_TopicModels_NeuralNetworks_Final.pdf
+      name: "NLP_Session_7_TopicModels_NeuralNetworks_Final.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/07_session-7/s7-raschka-2022-1.pdf
       name: "s7-raschka-2022-1.pdf"
       section: "reading"
