@@ -4,11 +4,11 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 2
-date: 2026-09-09T00:00:00
-sort_at: 2026-09-09T00:00:00
+date: 2026-09-09T08:00:00
+sort_at: 2026-09-09T08:00:00
 title: "Lab 2"
 subtitle: "String processing, regular expressions, and text preprocessing"
-details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
+details: "Lab group 1 - Wednesday 08:00-10:00, room 2.30"
 tabs: [lab]
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab2_Slides.pdf

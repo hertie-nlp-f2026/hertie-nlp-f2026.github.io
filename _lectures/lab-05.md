@@ -4,11 +4,11 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 5
-date: 2026-09-30T00:00:00
-sort_at: 2026-09-30T00:00:00
+date: 2026-09-30T08:00:00
+sort_at: 2026-09-30T08:00:00
 title: "Lab 5"
 subtitle: "Basic models I - Text classification with logistic regression"
-details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
+details: "Lab group 1 - Wednesday 08:00-10:00, room 2.30"
 tabs: [lab]
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/05_session-5/NLP_Lab5_Slides.pdf
