@@ -4,8 +4,8 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 5
-date: 2026-09-28T23:47:00
-sort_at: 2026-09-28T23:47:00
+date: 2026-09-29T18:00:00
+sort_at: 2026-09-29T18:00:00
 title: "Lecture 5"
 subtitle: "Basic models I - Text classification with logistic regression"
 tabs: [lecture, readings]

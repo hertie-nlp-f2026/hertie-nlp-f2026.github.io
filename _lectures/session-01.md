@@ -4,8 +4,8 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 1
-date: 2026-08-31T22:35:00
-sort_at: 2026-08-31T22:35:00
+date: 2026-09-01T18:00:00
+sort_at: 2026-09-01T18:00:00
 title: "Lecture 1"
 subtitle: "Introduction, motivation and course overview"
 tabs: [lecture, readings]

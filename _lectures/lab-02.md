@@ -4,8 +4,8 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 2
-date: 2026-09-08T14:16:00
-sort_at: 2026-09-08T14:16:00
+date: 2026-09-09T00:00:00
+sort_at: 2026-09-09T00:00:00
 title: "Lab 2"
 subtitle: "String processing, regular expressions, and text preprocessing"
 tabs: [lab]

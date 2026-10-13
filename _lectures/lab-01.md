@@ -4,8 +4,8 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 1
-date: 2026-09-01T21:26:00
-sort_at: 2026-09-01T21:26:00
+date: 2026-09-02T00:00:00
+sort_at: 2026-09-02T00:00:00
 title: "Lab 1"
 subtitle: "Introduction, motivation and course overview"
 tabs: [lab]

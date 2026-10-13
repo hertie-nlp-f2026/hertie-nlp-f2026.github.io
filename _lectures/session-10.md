@@ -4,7 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 10
-sort_at: 2026-10-12T22:50:00
+sort_at: 2026-10-13T18:03:00
 title: "Lecture 10"
 subtitle: "NLP visualizations + Explainable AI"
 tabs: [lecture]

@@ -4,7 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 11
-sort_at: 2026-10-05T08:47:00
+sort_at: 2026-10-07T00:05:00
 title: "Lab 11"
 subtitle: "Extending NLP to LLM workflows and agents"
 tabs: [lab]

@@ -4,8 +4,8 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 7
-date: 2026-10-12T22:47:00
-sort_at: 2026-10-12T22:47:00
+date: 2026-10-13T18:00:00
+sort_at: 2026-10-13T18:00:00
 title: "Lecture 7"
 subtitle: "Neural models II - Topic modelling with LDA + BERTopic"
 tabs: [lecture, readings]

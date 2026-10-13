@@ -4,8 +4,8 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 6
-date: 2026-10-11T18:53:00
-sort_at: 2026-10-11T18:53:00
+date: 2026-10-06T18:00:00
+sort_at: 2026-10-06T18:00:00
 title: "Lecture 6"
 subtitle: "Neural models I - Text classification with neural networks"
 tabs: [lecture, readings]

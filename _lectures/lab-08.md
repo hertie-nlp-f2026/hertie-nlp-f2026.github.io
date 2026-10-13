@@ -4,7 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 8
-sort_at: 2026-10-05T08:44:00
+sort_at: 2026-10-07T00:02:00
 title: "Lab 8"
 subtitle: "Neural models III - Language modelling with Transformers I"
 tabs: [lab]

@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: exam
-date: 2027-01-31T09:00:00
-sort_at: 2027-01-31T09:00:00
+date: 2026-11-27T09:00:00
+sort_at: 2026-11-27T09:00:00
 title: "Final Exam"
 ---

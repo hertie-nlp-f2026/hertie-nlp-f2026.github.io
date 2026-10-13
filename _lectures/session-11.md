@@ -4,7 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 11
-sort_at: 2026-10-12T22:51:00
+sort_at: 2026-10-13T18:04:00
 title: "Lecture 11"
 subtitle: "Extending NLP to LLM workflows and agents"
 tabs: [lecture]
