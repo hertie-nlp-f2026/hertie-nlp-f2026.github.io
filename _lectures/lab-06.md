@@ -8,6 +8,7 @@ date: 2026-10-07T00:00:00
 sort_at: 2026-10-07T00:00:00
 title: "Lab 6"
 subtitle: "Neural models I - Text classification with neural networks"
+details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab6_Slides.pdf

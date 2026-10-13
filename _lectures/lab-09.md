@@ -7,6 +7,7 @@ number: 9
 sort_at: 2026-10-07T00:03:00
 title: "Lab 9"
 subtitle: "Neural models III - Language modelling with Transformers II"
+details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
 unreleased: true
 tbc: true

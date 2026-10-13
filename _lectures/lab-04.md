@@ -8,6 +8,7 @@ date: 2026-09-23T00:00:00
 sort_at: 2026-09-23T00:00:00
 title: "Lab 4"
 subtitle: "Text representation II - Distribution-based"
+details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab4_Slides.pdf
