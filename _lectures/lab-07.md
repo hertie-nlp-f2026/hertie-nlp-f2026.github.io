@@ -12,6 +12,9 @@ tabs: [lab]
 tbc: true
 dateless: true
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab7_Slides.pdf
+      name: "NLP_Lab7_Slides.pdf"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab_7_bertopic.html
       name: "NLP_Lab_7_bertopic.html"
       section: "lab"
