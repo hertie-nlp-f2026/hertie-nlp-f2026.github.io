@@ -11,6 +11,9 @@ tabs: [lecture, readings]
 tbc: true
 dateless: true
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/08_session-8/NLP_Session_8_MLP_CNNs_RNNs_v4.pdf
+      name: "NLP_Session_8_MLP_CNNs_RNNs_v4.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/08_session-8/s8-raschka-2024.pdf
       name: "s8-raschka-2024.pdf"
       section: "reading"
