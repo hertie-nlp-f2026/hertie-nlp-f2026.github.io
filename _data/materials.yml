@@ -6,7 +6,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 55
+    files: 56
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -158,6 +158,12 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab_7_bertopic_activity.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/requirements.txt
+      - name: "08_session-8/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/08_session-8
+        files: 1
+        entries:
+          - name: "requirements.txt"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/requirements.txt
   - name: "lectures"
     files: 8
     entries:

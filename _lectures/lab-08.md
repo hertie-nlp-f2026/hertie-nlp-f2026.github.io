@@ -9,9 +9,11 @@ title: "Lab 8"
 subtitle: "Neural models III - Language modelling with Transformers I"
 details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/requirements.txt
+      name: "requirements.txt"
+      section: "lab"
 ---
-_**Materials for lab 8 are not yet released** - they will appear in [`materials/labs/08_session-8`](https://github.com/hertie-nlp-f2026/materials/tree/main/labs) when they are._
+
