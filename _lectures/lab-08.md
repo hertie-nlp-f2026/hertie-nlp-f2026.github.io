@@ -12,6 +12,12 @@ tabs: [lab]
 tbc: true
 dateless: true
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab8_Slides.pdf
+      name: "NLP_Lab8_Slides.pdf"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab_8_cnn_activity.ipynb
+      name: "NLP_Lab_8_cnn_activity.ipynb"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/requirements.txt
       name: "requirements.txt"
       section: "lab"
