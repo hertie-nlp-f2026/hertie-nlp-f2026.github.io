@@ -4,7 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 9
-date: 2026-10-04T19:37:16
+date: 2026-11-03T15:23:14
 sort_at: 2026-10-13T18:02:00
 title: "Lecture 9"
 subtitle: "Neural models III - Language modelling with Transformers II"
@@ -13,6 +13,9 @@ tbc: true
 dateless: true
 announce: true
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
+      name: "NLP_Session_9_LSTMs_Attention.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/09_session-9/s09-tunstall-2022-opt.pdf
       name: "s09-tunstall-2022-opt.pdf"
       section: "reading"
