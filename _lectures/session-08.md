@@ -4,7 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 8
-date: 2026-10-04T19:30:13
+date: 2026-10-26T22:36:03
 sort_at: 2026-10-13T18:01:00
 title: "Lecture 8"
 subtitle: "Neural models III - Language modelling with Transformers I"
