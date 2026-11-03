@@ -4,12 +4,14 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 8
+date: 2026-10-04T19:30:13
 sort_at: 2026-10-13T18:01:00
 title: "Lecture 8"
 subtitle: "Neural models III - Language modelling with Transformers I"
 tabs: [lecture, readings]
 tbc: true
 dateless: true
+announce: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/08_session-8/NLP_Session_8_MLP_CNNs_RNNs_v4.pdf
       name: "NLP_Session_8_MLP_CNNs_RNNs_v4.pdf"

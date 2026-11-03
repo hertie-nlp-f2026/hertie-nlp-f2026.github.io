@@ -7,6 +7,7 @@ date: 2026-10-04T20:00:00
 sort_at: 2026-10-04T20:00:00
 title: "Quiz 1"
 submit_shape: "external"
+late_rule: "10% of the grade per day late, counted by your marker"
 due_event:
     kind: due
     date: 2026-10-04T23:59:59

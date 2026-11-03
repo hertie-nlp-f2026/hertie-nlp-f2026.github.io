@@ -4,6 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 7
+date: 2026-10-13T17:02:47
 sort_at: 2026-10-08T18:01:00
 title: "Lab 7"
 subtitle: "Neural models II - Topic modelling with LDA + BERTopic"
@@ -11,6 +12,7 @@ details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-2
 tabs: [lab]
 tbc: true
 dateless: true
+announce: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab7_Slides.pdf
       name: "NLP_Lab7_Slides.pdf"
