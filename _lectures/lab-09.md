@@ -12,6 +12,7 @@ tabs: [lab]
 unreleased: true
 tbc: true
 dateless: true
+readings_chip: true
 links: []
 ---
 _**Materials for lab 9 are not yet released** - they will appear in [`materials/labs/09_session-9`](https://github.com/hertie-nlp-f2026/materials/tree/main/labs) when they are._

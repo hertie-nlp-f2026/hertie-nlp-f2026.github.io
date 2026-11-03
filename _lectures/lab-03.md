@@ -10,11 +10,14 @@ title: "Lab 3"
 subtitle: "Text representation I - Vector-based"
 details: "Lab group 1 - Wednesday 08:00-10:00, room 2.30"
 tabs: [lab]
+readings_chip: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab3_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/NLP_Lab3_Slides.pdf
       name: "NLP_Lab3_Slides.pdf"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/NLP_Lab_3.html
       name: "NLP_Lab_3.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3_activity.ipynb

@@ -16,8 +16,10 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/nlp_lab1_data_in.csv
           - name: "NLP_Lab1_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab1_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/01_session-1/NLP_Lab1_Slides.pdf
           - name: "NLP_Lab_1.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/01_session-1/NLP_Lab_1.html
           - name: "NLP_Lab_1_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1_activity.ipynb
           - name: "requirements.txt"
@@ -36,8 +38,10 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/nlp_lab2_data_cleaning.csv
           - name: "NLP_Lab2_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab2_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/02_session-2/NLP_Lab2_Slides.pdf
           - name: "NLP_Lab_2_activity.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab_2_activity.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/02_session-2/NLP_Lab_2_activity.html
           - name: "NLP_Lab_2_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/02_session-2/NLP_Lab_2_activity.ipynb
           - name: "requirements.txt"
@@ -54,28 +58,40 @@ sections:
             entries:
               - name: "E1282_NaturalLangProcess_RamirezRuiz.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1282_NaturalLangProcess_RamirezRuiz.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1282_NaturalLangProcess_RamirezRuiz.pdf
               - name: "E1287_EmissionsPricing_Hirth&Flachsland.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1287_EmissionsPricing_Hirth%26Flachsland.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1287_EmissionsPricing_Hirth%26Flachsland.pdf
               - name: "E1319_GPAI_Bryson.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1319_GPAI_Bryson.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1319_GPAI_Bryson.pdf
               - name: "E1354_DataScienceDecisionMaking_Lowe.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1354_DataScienceDecisionMaking_Lowe.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1354_DataScienceDecisionMaking_Lowe.pdf
               - name: "E1359_IntergroupRelations_Ditlmann.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1359_IntergroupRelations_Ditlmann.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1359_IntergroupRelations_Ditlmann.pdf
               - name: "E1368_PoliticsofFood_Bauer.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1368_PoliticsofFood_Bauer.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1368_PoliticsofFood_Bauer.pdf
               - name: "E1393_DvlpEconomics_Ornaghi.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1393_DvlpEconomics_Ornaghi.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1393_DvlpEconomics_Ornaghi.pdf
               - name: "E1461_AgencyFoundationsTechEthics_Bryson.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1461_AgencyFoundationsTechEthics_Bryson.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1461_AgencyFoundationsTechEthics_Bryson.pdf
               - name: "E1487_CausalMachineLearning_Dimmery.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1487_CausalMachineLearning_Dimmery.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1487_CausalMachineLearning_Dimmery.pdf
               - name: "E1508_Evaluating-AI-Systems_Dimmery.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/pdf_corpus/E1508_Evaluating-AI-Systems_Dimmery.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/pdf_corpus/E1508_Evaluating-AI-Systems_Dimmery.pdf
           - name: "NLP_Lab3_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab3_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/NLP_Lab3_Slides.pdf
           - name: "NLP_Lab_3.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/03_session-3/NLP_Lab_3.html
           - name: "NLP_Lab_3_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/03_session-3/NLP_Lab_3_activity.ipynb
           - name: "requirements.txt"
@@ -90,32 +106,45 @@ sections:
             entries:
               - name: "E1282_NaturalLangProcess_RamirezRuiz.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1282_NaturalLangProcess_RamirezRuiz.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1282_NaturalLangProcess_RamirezRuiz.pdf
               - name: "E1287_EmissionsPricing_Hirth&Flachsland.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1287_EmissionsPricing_Hirth%26Flachsland.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1287_EmissionsPricing_Hirth%26Flachsland.pdf
               - name: "E1319_GPAI_Bryson.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1319_GPAI_Bryson.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1319_GPAI_Bryson.pdf
               - name: "E1354_DataScienceDecisionMaking_Lowe.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1354_DataScienceDecisionMaking_Lowe.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1354_DataScienceDecisionMaking_Lowe.pdf
               - name: "E1359_IntergroupRelations_Ditlmann.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1359_IntergroupRelations_Ditlmann.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1359_IntergroupRelations_Ditlmann.pdf
               - name: "E1368_PoliticsofFood_Bauer.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1368_PoliticsofFood_Bauer.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1368_PoliticsofFood_Bauer.pdf
               - name: "E1393_DvlpEconomics_Ornaghi.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1393_DvlpEconomics_Ornaghi.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1393_DvlpEconomics_Ornaghi.pdf
               - name: "E1461_AgencyFoundationsTechEthics_Bryson.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1461_AgencyFoundationsTechEthics_Bryson.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1461_AgencyFoundationsTechEthics_Bryson.pdf
               - name: "E1487_CausalMachineLearning_Dimmery.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1487_CausalMachineLearning_Dimmery.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1487_CausalMachineLearning_Dimmery.pdf
               - name: "E1508_Evaluating-AI-Systems_Dimmery.pdf"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/pdf_corpus/E1508_Evaluating-AI-Systems_Dimmery.pdf
+                view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/pdf_corpus/E1508_Evaluating-AI-Systems_Dimmery.pdf
           - name: "NLP_Lab4_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab4_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/NLP_Lab4_Slides.pdf
           - name: "NLP_Lab_4.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/NLP_Lab_4.html
           - name: "NLP_Lab_4_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_activity.ipynb
           - name: "NLP_Lab_4_CBoW.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/NLP_Lab_4_CBoW.html
           - name: "NLP_Lab_4_CBoW.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.ipynb
           - name: "requirements.txt"
@@ -128,8 +157,10 @@ sections:
         entries:
           - name: "NLP_Lab5_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/05_session-5/NLP_Lab5_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/05_session-5/NLP_Lab5_Slides.pdf
           - name: "NLP_Lab_5_activity.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/05_session-5/NLP_Lab_5_activity.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/05_session-5/NLP_Lab_5_activity.html
           - name: "NLP_Lab_5_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/05_session-5/NLP_Lab_5_activity.ipynb
           - name: "requirements.txt"
@@ -140,8 +171,10 @@ sections:
         entries:
           - name: "NLP_Lab6_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab6_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/06_session-6/NLP_Lab6_Slides.pdf
           - name: "NLP_Lab_6_activity.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab_6_activity.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/06_session-6/NLP_Lab_6_activity.html
           - name: "NLP_Lab_6_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab_6_activity.ipynb
           - name: "requirements.txt"
@@ -152,8 +185,10 @@ sections:
         entries:
           - name: "NLP_Lab7_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab7_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/07_session-7/NLP_Lab7_Slides.pdf
           - name: "NLP_Lab_7_bertopic.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab_7_bertopic.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/07_session-7/NLP_Lab_7_bertopic.html
           - name: "NLP_Lab_7_bertopic_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/07_session-7/NLP_Lab_7_bertopic_activity.ipynb
           - name: "requirements.txt"
@@ -164,8 +199,10 @@ sections:
         entries:
           - name: "NLP_Lab8_Slides.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab8_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/08_session-8/NLP_Lab8_Slides.pdf
           - name: "NLP_Lab_8_cnn.html"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab_8_cnn.html
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/08_session-8/NLP_Lab_8_cnn.html
           - name: "NLP_Lab_8_cnn_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab_8_cnn_activity.ipynb
           - name: "requirements.txt"
@@ -179,54 +216,63 @@ sections:
         entries:
           - name: "NLP_Session_1_Final.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/01_session-1/NLP_Session_1_Final.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/01_session-1/NLP_Session_1_Final.pdf
       - name: "02_session-2/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/02_session-2
         files: 1
         entries:
           - name: "NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/02_session-2/NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/02_session-2/NLP_Session_2_String_Regex_Preprocessing_FINAL.pdf
       - name: "03_session-3/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/03_session-3
         files: 1
         entries:
           - name: "NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/03_session-3/NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/03_session-3/NLP_Session_3_Text_Representation_Vector_Based_FINAL.pdf
       - name: "04_session-4/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/04_session-4
         files: 1
         entries:
           - name: "NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/04_session-4/NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/04_session-4/NLP_Session_4_Text_Representation_Distribution_Based_v2-2.pdf
       - name: "05_session-5/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/05_session-5
         files: 1
         entries:
           - name: "NLP_Session_5_Basic_Models.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/05_session-5/NLP_Session_5_Basic_Models.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/05_session-5/NLP_Session_5_Basic_Models.pdf
       - name: "06_session-6/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/06_session-6
         files: 1
         entries:
           - name: "NLP_Session_6.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/06_session-6/NLP_Session_6.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/06_session-6/NLP_Session_6.pdf
       - name: "07_session-7/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/07_session-7
         files: 1
         entries:
           - name: "NLP_Session_7_TopicModels_NeuralNetworks_Final.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/07_session-7/NLP_Session_7_TopicModels_NeuralNetworks_Final.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/07_session-7/NLP_Session_7_TopicModels_NeuralNetworks_Final.pdf
       - name: "08_session-8/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/08_session-8
         files: 1
         entries:
           - name: "NLP_Session_8_MLP_CNNs_RNNs_v4.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/08_session-8/NLP_Session_8_MLP_CNNs_RNNs_v4.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/08_session-8/NLP_Session_8_MLP_CNNs_RNNs_v4.pdf
       - name: "09_session-9/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/09_session-9
         files: 1
         entries:
           - name: "NLP_Session_9_LSTMs_Attention.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
   - name: "readings"
     files: 24
     entries:

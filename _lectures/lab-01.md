@@ -10,11 +10,14 @@ title: "Lab 1"
 subtitle: "Introduction, motivation and course overview"
 details: "Lab group 1 - Wednesday 08:00-10:00, room 2.30"
 tabs: [lab]
+readings_chip: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab1_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/01_session-1/NLP_Lab1_Slides.pdf
       name: "NLP_Lab1_Slides.pdf"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/01_session-1/NLP_Lab_1.html
       name: "NLP_Lab_1.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/01_session-1/NLP_Lab_1_activity.ipynb

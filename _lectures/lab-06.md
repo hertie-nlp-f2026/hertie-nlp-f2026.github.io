@@ -10,11 +10,14 @@ title: "Lab 6"
 subtitle: "Neural models I - Text classification with neural networks"
 details: "Lab group 1 - Wednesday 08:00-10:00, room 2.30"
 tabs: [lab]
+readings_chip: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab6_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/06_session-6/NLP_Lab6_Slides.pdf
       name: "NLP_Lab6_Slides.pdf"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab_6_activity.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/06_session-6/NLP_Lab_6_activity.html
       name: "NLP_Lab_6_activity.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/06_session-6/NLP_Lab_6_activity.ipynb

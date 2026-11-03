@@ -10,14 +10,18 @@ title: "Lab 4"
 subtitle: "Text representation II - Distribution-based"
 details: "Lab group 1 - Wednesday 08:00-10:00, room 2.30"
 tabs: [lab]
+readings_chip: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab4_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/NLP_Lab4_Slides.pdf
       name: "NLP_Lab4_Slides.pdf"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/NLP_Lab_4.html
       name: "NLP_Lab_4.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/04_session-4/NLP_Lab_4_CBoW.html
       name: "NLP_Lab_4_CBoW.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/04_session-4/NLP_Lab_4_CBoW.ipynb

@@ -6,6 +6,7 @@ kind: lab
 number: 8
 date: 2026-10-27T14:49:03
 sort_at: 2026-10-08T18:02:00
+released_at: 2026-10-27T14:49:03
 title: "Lab 8"
 subtitle: "Neural models III - Language modelling with Transformers I"
 details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
@@ -13,11 +14,14 @@ tabs: [lab]
 tbc: true
 dateless: true
 announce: true
+readings_chip: true
 links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab8_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/08_session-8/NLP_Lab8_Slides.pdf
       name: "NLP_Lab8_Slides.pdf"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab_8_cnn.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/08_session-8/NLP_Lab_8_cnn.html
       name: "NLP_Lab_8_cnn.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/NLP_Lab_8_cnn_activity.ipynb
