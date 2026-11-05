@@ -3405,7 +3405,11 @@ Name: text, dtype: object</code></pre>
 </section>
 <section id="run-training-and-testing-iterations-epochs" class="level1">
 <h1>3. Run Training and Testing Iterations (Epochs)</h1>
-<p>Each epoch is one full pass through the training data split up into randomly shuffled mini-batches. Here the <code>train</code> function: - Trains the network for each mini-batch of the train DataLoader so both forward (inference) and backward (learning) passes - Tests the network for each mini-batch of the test DataLoader so forward only</p>
+<p>Each epoch is one full pass through the training data split up into randomly shuffled mini-batches. Here the <code>train</code> function:</p>
+<ol type="1">
+<li>Trains the network for each mini-batch of the train DataLoader so both forward (inference) and backward (learning) passes</li>
+<li>Tests the network for each mini-batch of the test DataLoader so forward only</li>
+</ol>
 <div id="4b132986-c651-4584-9649-d19d29936d6f" class="cell" data-execution_count="17">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb28"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>num_epochs <span class="op">=</span> <span class="dv">3</span></span>
 <span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>learning_rate <span class="op">=</span> <span class="fl">0.001</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
