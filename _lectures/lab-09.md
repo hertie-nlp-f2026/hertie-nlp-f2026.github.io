@@ -26,8 +26,20 @@ links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_activity.ipynb
       name: "NLP_Lab_9_activity.ipynb"
       section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_lm_activity.ipynb
+      name: "NLP_Lab_9_lm_activity.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_mt_activity.ipynb
+      name: "NLP_Lab_9_mt_activity.ipynb"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/requirements.txt
       name: "requirements.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9/txt_lm
+      name: "txt_lm/ (3 files)"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9/txt_mt
+      name: "txt_mt/ (4 files)"
       section: "lab"
 ---
 

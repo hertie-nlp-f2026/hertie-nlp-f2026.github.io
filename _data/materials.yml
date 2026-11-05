@@ -6,7 +6,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 63
+    files: 72
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -209,8 +209,30 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/requirements.txt
       - name: "09_session-9/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9
-        files: 4
+        files: 13
         entries:
+          - name: "txt_lm/"
+            url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9/txt_lm
+            files: 3
+            entries:
+              - name: "1268-0-verne.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_lm/1268-0-verne.txt
+              - name: "pg1260-bronte.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_lm/pg1260-bronte.txt
+              - name: "pg2591-grimm.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_lm/pg2591-grimm.txt
+          - name: "txt_mt/"
+            url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9/txt_mt
+            files: 4
+            entries:
+              - name: "deu.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_mt/deu.txt
+              - name: "fra.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_mt/fra.txt
+              - name: "hin.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_mt/hin.txt
+              - name: "spa.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_mt/spa.txt
           - name: "1268-0.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/1268-0.txt
           - name: "NLP_Lab9_Slides.pdf"
@@ -218,6 +240,10 @@ sections:
             view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab9_Slides.pdf
           - name: "NLP_Lab_9_activity.ipynb"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_activity.ipynb
+          - name: "NLP_Lab_9_lm_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_lm_activity.ipynb
+          - name: "NLP_Lab_9_mt_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_mt_activity.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/requirements.txt
   - name: "lectures"
