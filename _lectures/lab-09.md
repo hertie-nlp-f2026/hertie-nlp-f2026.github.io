@@ -4,15 +4,30 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 9
+date: 2026-11-05T12:07:39
 sort_at: 2026-10-08T18:03:00
+released_at: 2026-11-05T12:07:39
 title: "Lab 9"
 subtitle: "Neural models III - Language modelling with Transformers II"
 details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
-unreleased: true
 tbc: true
 dateless: true
+announce: true
 readings_chip: true
-links: []
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/1268-0.txt
+      name: "1268-0.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab9_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab9_Slides.pdf
+      name: "NLP_Lab9_Slides.pdf"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_activity.ipynb
+      name: "NLP_Lab_9_activity.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/requirements.txt
+      name: "requirements.txt"
+      section: "lab"
 ---
-_**Materials for lab 9 are not yet released** - they will appear in [`materials/labs/09_session-9`](https://github.com/hertie-nlp-f2026/materials/tree/main/labs) when they are._
+
