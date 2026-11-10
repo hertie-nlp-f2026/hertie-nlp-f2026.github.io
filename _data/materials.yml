@@ -313,7 +313,7 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
             view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
   - name: "readings"
-    files: 24
+    files: 26
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/01_session-1
@@ -399,3 +399,11 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/09_session-9/s09-tunstall-2022-opt.pdf
           - name: "s09-tunstall-2022.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/09_session-9/s09-tunstall-2022.pdf
+      - name: "10_session-10/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/readings/10_session-10
+        files: 2
+        entries:
+          - name: "s09-tunstall-2022-opt.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/10_session-10/s09-tunstall-2022-opt.pdf
+          - name: "s8-tunstall-2024-opt.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/readings/10_session-10/s8-tunstall-2024-opt.pdf
