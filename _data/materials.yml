@@ -6,7 +6,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 72
+    files: 82
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -246,6 +246,35 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_mt_activity.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/requirements.txt
+      - name: "10_session-10/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/10_session-10
+        files: 10
+        entries:
+          - name: "txt_mt/"
+            url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/10_session-10/txt_mt
+            files: 4
+            entries:
+              - name: "deu.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/txt_mt/deu.txt
+              - name: "fra.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/txt_mt/fra.txt
+              - name: "hin.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/txt_mt/hin.txt
+              - name: "spa.txt"
+                url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/txt_mt/spa.txt
+          - name: "data_loading.py"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/data_loading.py
+          - name: "evaluation.py"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/evaluation.py
+          - name: "languages.py"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/languages.py
+          - name: "NLP_Lab10_Slides.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/NLP_Lab10_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/10_session-10/NLP_Lab10_Slides.pdf
+          - name: "NLP_Lab_10_mt_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/NLP_Lab_10_mt_activity.ipynb
+          - name: "requirements.txt"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/requirements.txt
   - name: "lectures"
     files: 9
     entries:

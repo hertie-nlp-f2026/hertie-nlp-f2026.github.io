@@ -4,14 +4,38 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 10
+date: 2026-11-11T08:05:32
 sort_at: 2026-10-08T18:04:00
+released_at: 2026-11-11T08:05:32
 title: "Lab 10"
 subtitle: "NLP visualizations + Explainable AI"
 details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+announce: true
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/NLP_Lab10_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/10_session-10/NLP_Lab10_Slides.pdf
+      name: "NLP_Lab10_Slides.pdf"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/NLP_Lab_10_mt_activity.ipynb
+      name: "NLP_Lab_10_mt_activity.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/data_loading.py
+      name: "data_loading.py"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/evaluation.py
+      name: "evaluation.py"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/languages.py
+      name: "languages.py"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/requirements.txt
+      name: "requirements.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/10_session-10/txt_mt
+      name: "txt_mt/ (4 files)"
+      section: "lab"
 ---
-_**Materials for lab 10 are not yet released** - they will appear in [`materials/labs/10_session-10`](https://github.com/hertie-nlp-f2026/materials/tree/main/labs) when they are._
+
