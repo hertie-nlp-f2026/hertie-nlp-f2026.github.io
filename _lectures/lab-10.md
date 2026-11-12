@@ -34,6 +34,9 @@ links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/requirements.txt
       name: "requirements.txt"
       section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/10_session-10/training.py
+      name: "training.py"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/10_session-10/txt_mt
       name: "txt_mt/ (4 files)"
       section: "lab"
