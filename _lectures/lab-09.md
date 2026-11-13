@@ -26,14 +26,34 @@ links:
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_activity.ipynb
       name: "NLP_Lab_9_activity.ipynb"
       section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_lm.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab_9_lm.html
+      name: "NLP_Lab_9_lm.html"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_lm_activity.ipynb
       name: "NLP_Lab_9_lm_activity.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_mt.html
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab_9_mt.html
+      name: "NLP_Lab_9_mt.html"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_mt_activity.ipynb
       name: "NLP_Lab_9_mt_activity.ipynb"
       section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/data_loading.py
+      name: "data_loading.py"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/evaluation.py
+      name: "evaluation.py"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/languages.py
+      name: "languages.py"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/requirements.txt
       name: "requirements.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/training.py
+      name: "training.py"
       section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9/txt_lm
       name: "txt_lm/ (3 files)"
