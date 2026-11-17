@@ -4,14 +4,22 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 11
+date: 2026-11-17T12:52:49
 sort_at: 2026-10-08T18:05:00
+released_at: 2026-11-17T12:52:49
 title: "Lab 11"
 subtitle: "Extending NLP to LLM workflows and agents"
 details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+announce: true
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/requirements.txt
+      name: "requirements.txt"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/sentencepiece.model
+      name: "sentencepiece.model"
+      section: "lab"
 ---
-_**Materials for lab 11 are not yet released** - they will appear in [`materials/labs/11_session-11`](https://github.com/hertie-nlp-f2026/materials/tree/main/labs) when they are._
+
