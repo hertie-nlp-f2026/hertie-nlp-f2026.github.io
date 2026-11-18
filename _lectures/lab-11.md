@@ -15,6 +15,16 @@ tbc: true
 dateless: true
 announce: true
 links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/NLP_Lab11_Slides.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/11_session-11/NLP_Lab11_Slides.pdf
+      name: "NLP_Lab11_Slides.pdf"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/NLP_Lab_11_activity.ipynb
+      name: "NLP_Lab_11_activity.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/functions.py
+      name: "functions.py"
+      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/requirements.txt
       name: "requirements.txt"
       section: "lab"
