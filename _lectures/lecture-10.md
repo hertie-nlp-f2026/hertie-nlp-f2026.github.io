@@ -4,13 +4,19 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 10
+date: 2026-11-19T22:26:55
 sort_at: 2026-10-13T18:03:00
+released_at: 2026-11-19T22:26:55
 title: "Lecture 10"
 subtitle: "NLP visualizations + Explainable AI"
 tabs: [lecture]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+announce: true
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/10_session-10/NLP_Session_10_Attention_Transformers.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/10_session-10/NLP_Session_10_Attention_Transformers.pdf
+      name: "NLP_Session_10_Attention_Transformers.pdf"
+      section: "lecture"
 ---
-_**Materials for lecture 10 are not yet released** - they will appear in [`materials/lectures/10_session-10`](https://github.com/hertie-nlp-f2026/materials/tree/main/lectures) when they are._
+

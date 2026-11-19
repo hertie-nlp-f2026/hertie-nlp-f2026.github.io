@@ -4,13 +4,19 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 11
+date: 2026-11-19T22:26:55
 sort_at: 2026-10-13T18:04:00
+released_at: 2026-11-19T22:26:55
 title: "Lecture 11"
 subtitle: "Extending NLP to LLM workflows and agents"
 tabs: [lecture]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+announce: true
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/11_session-11/NLP_Session_11_post_training.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/11_session-11/NLP_Session_11_post_training.pdf
+      name: "NLP_Session_11_post_training.pdf"
+      section: "lecture"
 ---
-_**Materials for lecture 11 are not yet released** - they will appear in [`materials/lectures/11_session-11`](https://github.com/hertie-nlp-f2026/materials/tree/main/lectures) when they are._
+

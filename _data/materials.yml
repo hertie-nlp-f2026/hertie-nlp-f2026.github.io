@@ -307,7 +307,7 @@ sections:
           - name: "sentencepiece.model"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/sentencepiece.model
   - name: "lectures"
-    files: 9
+    files: 11
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/01_session-1
@@ -372,6 +372,20 @@ sections:
           - name: "NLP_Session_9_LSTMs_Attention.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
             view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/09_session-9/NLP_Session_9_LSTMs_Attention.pdf
+      - name: "10_session-10/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/10_session-10
+        files: 1
+        entries:
+          - name: "NLP_Session_10_Attention_Transformers.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/10_session-10/NLP_Session_10_Attention_Transformers.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/10_session-10/NLP_Session_10_Attention_Transformers.pdf
+      - name: "11_session-11/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/11_session-11
+        files: 1
+        entries:
+          - name: "NLP_Session_11_post_training.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/11_session-11/NLP_Session_11_post_training.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/11_session-11/NLP_Session_11_post_training.pdf
   - name: "readings"
     files: 26
     entries:
