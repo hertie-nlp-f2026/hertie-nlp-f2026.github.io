@@ -4,14 +4,19 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 12
+date: 2026-11-24T14:42:30
 sort_at: 2026-10-08T18:06:00
+released_at: 2026-11-24T14:42:30
 title: "Lab 12"
 subtitle: "LLM Workflows and Agents II"
 details: "Two lab groups: Wednesday 08:00-10:00 (room 2.30) and Thursday 18:00-20:00 (room 2.32)"
 tabs: [lab]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+announce: true
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/12_session-12/requirements.txt
+      name: "requirements.txt"
+      section: "lab"
 ---
-_**Materials for lab 12 are not yet released** - they will appear in [`materials/labs/12_session-12`](https://github.com/hertie-nlp-f2026/materials/tree/main/labs) when they are._
+
