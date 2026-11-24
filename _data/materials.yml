@@ -316,7 +316,7 @@ sections:
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/12_session-12/requirements.txt
   - name: "lectures"
-    files: 11
+    files: 12
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/01_session-1
@@ -395,6 +395,13 @@ sections:
           - name: "NLP_Session_11_post_training.pdf"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/11_session-11/NLP_Session_11_post_training.pdf
             view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/11_session-11/NLP_Session_11_post_training.pdf
+      - name: "12_session-12/"
+        url: https://github.com/hertie-nlp-f2026/materials/tree/main/lectures/12_session-12
+        files: 1
+        entries:
+          - name: "NLP_Session_12_Agents_XAI.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/12_session-12/NLP_Session_12_Agents_XAI.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/12_session-12/NLP_Session_12_Agents_XAI.pdf
   - name: "readings"
     files: 26
     entries:

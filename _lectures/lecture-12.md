@@ -4,13 +4,19 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 12
+date: 2026-11-24T16:45:26
 sort_at: 2026-10-13T18:05:00
+released_at: 2026-11-24T16:45:26
 title: "Lecture 12"
 subtitle: "LLM Workflows and Agents II"
 tabs: [lecture]
-unreleased: true
 tbc: true
 dateless: true
-links: []
+announce: true
+links:
+    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/lectures/12_session-12/NLP_Session_12_Agents_XAI.pdf
+      view_url: https://hertie-nlp-f2026.github.io/files/materials/lectures/12_session-12/NLP_Session_12_Agents_XAI.pdf
+      name: "NLP_Session_12_Agents_XAI.pdf"
+      section: "lecture"
 ---
-_**Materials for lecture 12 are not yet released** - they will appear in [`materials/lectures/12_session-12`](https://github.com/hertie-nlp-f2026/materials/tree/main/lectures) when they are._
+
