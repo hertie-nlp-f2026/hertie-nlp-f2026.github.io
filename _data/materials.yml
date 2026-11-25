@@ -6,7 +6,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 96
+    files: 99
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -311,8 +311,15 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/11_session-11/sentencepiece.model
       - name: "12_session-12/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/12_session-12
-        files: 1
+        files: 4
         entries:
+          - name: "functions.py"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/12_session-12/functions.py
+          - name: "NLP_Lab12_Slides.pdf"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/12_session-12/NLP_Lab12_Slides.pdf
+            view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/12_session-12/NLP_Lab12_Slides.pdf
+          - name: "NLP_Lab_12_activity.ipynb"
+            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/12_session-12/NLP_Lab_12_activity.ipynb
           - name: "requirements.txt"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/12_session-12/requirements.txt
   - name: "lectures"
