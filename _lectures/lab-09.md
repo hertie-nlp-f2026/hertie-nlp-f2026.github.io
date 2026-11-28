@@ -20,9 +20,6 @@ links:
       view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab9_Slides.pdf
       name: "NLP_Lab9_Slides.pdf"
       section: "lab"
-    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_activity.ipynb
-      name: "NLP_Lab_9_activity.ipynb"
-      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab_9_lm.html
       view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab_9_lm.html
       name: "NLP_Lab_9_lm.html"
