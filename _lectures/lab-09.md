@@ -16,9 +16,6 @@ dateless: true
 announce: true
 readings_chip: true
 links:
-    - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/1268-0.txt
-      name: "1268-0.txt"
-      section: "lab"
     - url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/NLP_Lab9_Slides.pdf
       view_url: https://hertie-nlp-f2026.github.io/files/materials/labs/09_session-9/NLP_Lab9_Slides.pdf
       name: "NLP_Lab9_Slides.pdf"

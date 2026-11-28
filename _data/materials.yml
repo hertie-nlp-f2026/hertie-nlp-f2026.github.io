@@ -6,7 +6,7 @@ documents:
     url: https://github.com/hertie-nlp-f2026/materials/blob/main/E1282_NaturalLangProcess_RamirezRuiz.pdf
 sections:
   - name: "labs"
-    files: 99
+    files: 98
     entries:
       - name: "01_session-1/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/01_session-1
@@ -209,7 +209,7 @@ sections:
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/08_session-8/requirements.txt
       - name: "09_session-9/"
         url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9
-        files: 19
+        files: 18
         entries:
           - name: "txt_lm/"
             url: https://github.com/hertie-nlp-f2026/materials/tree/main/labs/09_session-9/txt_lm
@@ -233,8 +233,6 @@ sections:
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_mt/hin.txt
               - name: "spa.txt"
                 url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/txt_mt/spa.txt
-          - name: "1268-0.txt"
-            url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/1268-0.txt
           - name: "data_loading.py"
             url: https://github.com/hertie-nlp-f2026/materials/blob/main/labs/09_session-9/data_loading.py
           - name: "evaluation.py"
